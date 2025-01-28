@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "@qdrant/js-client-rest": "^1.13.0"
+    "@qdrant/js-client-rest": "^1.13.0",
+    "llamaindex": "^0.8.31"
   }
 }
